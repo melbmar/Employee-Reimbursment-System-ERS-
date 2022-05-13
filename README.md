@@ -20,7 +20,7 @@ Employees must select the type of reimbursement as: LODGING, TRAVEL, FOOD, or OT
 #JUnit 
 #Log4J
 
-## Web Home
+## Web Home Login
 
 <img width="1160" alt="Screen Shot 2022-05-12 at 7 08 49 PM" src="https://user-images.githubusercontent.com/102433425/168192943-c3dfbd29-9d7d-43cf-8448-1000221657e3.png">
 
