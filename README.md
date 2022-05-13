@@ -11,14 +11,14 @@ Employees must select the type of reimbursement as: LODGING, TRAVEL, FOOD, or OT
 
 ## Environment / Technologies 
 
-## Java 
-## JDBC 
-## SQL 
-## CSS/HTML 
-## Bootstrap 
-## JavaScript 
-## JUnit 
-## Log4J
+#Java 
+#JDBC 
+#SQL 
+#CSS/HTML 
+#Bootstrap 
+#JavaScript 
+#JUnit 
+#Log4J
 
 ## Web Home
 
