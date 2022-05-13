@@ -8,5 +8,9 @@ The Expense Reimbursement System (ERS) will manage the process of reimbursing em
 Postgres Database shall be hosted remotely on an AWS RDS.
 Employees must select the type of reimbursement as: LODGING, TRAVEL, FOOD, or OTHER.
 
+## ----------------------------------------------------------------
+
 Environment / Technologies 
 Java JDBC SQL CSS/HTML Bootstrap JavaScript JUnit Log4J
+
+
