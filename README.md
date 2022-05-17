@@ -9,9 +9,9 @@ Postgres Database shall be hosted remotely on an AWS RDS.
 Employees must select the type of reimbursement as: LODGING, TRAVEL, FOOD, or OTHER.
 
 
-## Environment / Technologies 
+## Environment / Technologies Used
 
-#Java 
+* Java 
 #JDBC 
 #SQL 
 #CSS/HTML 
@@ -19,6 +19,11 @@ Employees must select the type of reimbursement as: LODGING, TRAVEL, FOOD, or OT
 #JavaScript 
 #JUnit 
 #Log4J
+
+
+## Features
+
+
 
 ## Web Home Login
 
