@@ -57,21 +57,24 @@ To-do list:
 
 ## Usage / Web Home Login
 
-The starting view for the application should be the login page and with the link similar to http://localhost:8081/employeereimbursementsystem.html dependent on the local host port and look like the following.
-
-Use the information from the "Users" Table to sign in as an Employee(role_id = 1) or as a Manager(role_id = 2). After successful login the top navigation bar is used to navigate between views and features.
-
-Web Home Login
-<img width="1160" alt="Screen Shot 2022-05-12 at 7 08 49 PM" src="https://user-images.githubusercontent.com/102433425/168192943-c3dfbd29-9d7d-43cf-8448-1000221657e3.png">
-
-
-## Contributors
 In order to see this project in action, you will need a few things:
 * Be sure to have Spring ToolsSuiote4 installed.
 * Be sure to have the Java 8 runtime environment installed.
 * DBeaver (Postgres)
 * All maven dependecies installed.
 * Visual Code Installed.
+
+The starting view for the application should be the login page and with the link similar to http://localhost:8081/employeereimbursementsystem.html dependent on the local host port and look like the following.
+
+Use the information from the "Users" Table to sign in as an Employee(role_id = 1) or as a Manager(role_id = 2). After successful login the top navigation bar is used to navigate between views and features.
+
+
+Web Home Login
+<img width="1160" alt="Screen Shot 2022-05-12 at 7 08 49 PM" src="https://user-images.githubusercontent.com/102433425/168192943-c3dfbd29-9d7d-43cf-8448-1000221657e3.png">
+
+
+## Contributors
+Melba Sanchez
 
 ## License
 This project uses the following license: Melba Sanchez (me!) <https://github.com/melbmar> for Revature <https://revature.com/>
