@@ -16,14 +16,15 @@ The back-end system shall use JDBC to connect to a Postgres database. The middle
 
 ## Environment / Technologies Used
 
-* Java 
-#JDBC 
-#SQL 
-#CSS/HTML 
-#Bootstrap 
-#JavaScript 
-#JUnit 
-#Log4J
+* Java version 1.8
+* JDBC 
+* SQL(Postgres) version 42.3.3
+* CSS/HTML 5
+* Bootstrap 
+* JavaScript 
+* JUnit version 4.12
+* Log4J version 2.17.1
+* Javalin version 4.4.0
 
 
 ## Features
